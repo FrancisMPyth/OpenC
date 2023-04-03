@@ -23,7 +23,7 @@ Les images des livres sont téléchargées. Ces données sont ensuite classées 
         ----- categorie1.csv  
         ----- imgs/  
             ------ img1.jpg  
-            ------ img2.jpg 
+            ------ img2.jpg   
     ---- categorie2/  
  
 

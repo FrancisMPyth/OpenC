@@ -18,8 +18,8 @@ product_page_url
 * image_url
 ============================================
 Les images des livres sont téléchargées. Ces données sont ensuite classées par catégories et inscrites dans un fichier CSV correspondant. Les données sont générées à la racine du projet suivant cette arborescence:  
-|-- data/  
-    |-- categorie1/  
+-- data/  
+    ----- categorie1/  
         |-- categorie1.csv  
         |-- imgs/  
             |-- img1.jpg  
